@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Impact in numbers">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E01474"/><stop offset="1" stop-color="#FF5A1F"/>
+    </linearGradient>
+    <style>
+      .f{font-family:'Space Grotesk','Sora',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+      .n{font-size:38px;font-weight:700;letter-spacing:-1px}
+      .l{font-size:15px;fill:#141110;font-weight:600}
+      .t{font-size:12.5px;fill:#6b6157;letter-spacing:.3px}
+    </style>
+  </defs>
+  <rect width="1280" height="300" rx="28" fill="#FFFDF9" stroke="#141110" stroke-opacity="0.1"/>
+  <g class="f">
+    <!-- row 1 -->
+    <g class="c" style="animation-delay:.05s"><g transform="translate(40 32)">
+      <rect width="282" height="112" rx="18" fill="#FAF6F0"/>
+      <text x="22" y="52" class="n" fill="url(#g)">1.6MM+</text>
+      <text x="22" y="78" class="l">Community managed</text>
+      <text x="22" y="98" class="t">@sergiopeinado · Instagram</text></g></g>
+    <g class="c" style="animation-delay:.15s"><g transform="translate(340 32)">
+      <rect width="282" height="112" rx="18" fill="#FAF6F0"/>
+      <text x="22" y="52" class="n" fill="url(#g)">0,25 €</text>
+      <text x="22" y="78" class="l">Paid-media CPA</text>
+      <text x="22" y="98" class="t">Meta &amp; TikTok Ads · ElPozo</text></g></g>
+    <g class="c" style="animation-delay:.25s"><g transform="translate(640 32)">
+      <rect width="282" height="112" rx="18" fill="#FAF6F0"/>
+      <text x="22" y="52" class="n" fill="url(#g)">160M</text>
+      <text x="22" y="78" class="l">Campaign reach</text>
+      <text x="22" y="98" class="t">ElPozo France launch</text></g></g>
+    <g class="c" style="animation-delay:.35s"><g transform="translate(940 32)">
+      <rect width="300" height="112" rx="18" fill="#141110"/>
+      <text x="22" y="52" class="n" fill="#FF7A3C">10MM+</text>
+      <text x="22" y="78" class="l" fill="#FFFDF9" style="fill:#FFFDF9">Views per video</text>
+      <text x="22" y="98" class="t" style="fill:#FFFDF9;fill-opacity:.55">YouTube scripts · 5MM subs</text></g></g>
+    <!-- row 2 -->
+    <g class="c" style="animation-delay:.45s"><g transform="translate(40 158)">
+      <rect width="282" height="112" rx="18" fill="#FAF6F0"/>
+      <text x="22" y="52" class="n" fill="url(#g)">60K €+</text>
+      <text x="22" y="78" class="l">Influencer marketing</text>
+      <text x="22" y="98" class="t">Budget led · ElPozo</text></g></g>
+    <g class="c" style="animation-delay:.55s"><g transform="translate(340 158)">
+      <rect width="282" height="112" rx="18" fill="#FAF6F0"/>
+      <text x="22" y="52" class="n" fill="url(#g)">0,01 €</text>
+      <text x="22" y="78" class="l">CPV · award-winning</text>
+      <text x="22" y="98" class="t">#RetoBienstar · 4.5M reach</text></g></g>
+    <g class="c" style="animation-delay:.65s"><g transform="translate(640 158)">
+      <rect width="282" height="112" rx="18" fill="#FAF6F0"/>
+      <text x="22" y="52" class="n" fill="url(#g)">+8 %</text>
+      <text x="22" y="78" class="l">Sales uplift</text>
+      <text x="22" y="98" class="t">Authentica Cosmética · 3 months</text></g></g>
+    <g class="c" style="animation-delay:.75s"><g transform="translate(940 158)">
+      <rect width="300" height="112" rx="18" fill="url(#g)"/>
+      <text x="22" y="52" class="n" fill="#FFFDF9">15+</text>
+      <text x="22" y="78" class="l" style="fill:#FFFDF9">Brands &amp; projects</text>
+      <text x="22" y="98" class="t" style="fill:#FFFDF9;fill-opacity:.8">FMCG · fitness · beauty · food</text></g></g>
+  </g>
+</svg>

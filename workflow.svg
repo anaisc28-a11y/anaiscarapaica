@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-label="My AI content loop: Listen, Brief, Generate, Human edit, Publish, Measure">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E01474"/><stop offset="1" stop-color="#FF5A1F"/>
+    </linearGradient>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#E01474"/></marker>
+    <style>
+      .f{font-family:'Space Grotesk','Sora',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+      .k{font-size:12px;fill:#6b6157;letter-spacing:1.2px;font-weight:600}
+      .h{font-size:19px;font-weight:700;fill:#141110}
+      .d{font-size:13px;fill:#6b6157}
+      .dash{stroke-dasharray:6 8;animation:m 1.6s linear infinite}
+      @keyframes m{to{stroke-dashoffset:-28}}
+    </style>
+  </defs>
+  <rect width="1280" height="260" rx="28" fill="#FAF6F0" stroke="#141110" stroke-opacity="0.1"/>
+  <g class="f">
+    <text x="40" y="44" class="k">THE AI CONTENT LOOP · HOW I WORK</text>
+    <!-- loop-back line -->
+    <path class="dash" d="M1180 196 C1180 236, 100 236, 100 196" fill="none" stroke="#E01474" stroke-opacity="0.5" stroke-width="2" marker-end="url(#a)"/>
+    <text x="640" y="248" class="d" text-anchor="middle">data feeds the next brief</text>
+
+    <g transform="translate(40 66)">
+      <rect width="180" height="124" rx="18" fill="#FFFDF9" stroke="#141110" stroke-opacity="0.12"/>
+      <text x="20" y="34" class="k">01</text><text x="20" y="64" class="h">Listen</text>
+      <text x="20" y="88" class="d">Comments, DMs,</text><text x="20" y="106" class="d">trends &amp; insights</text></g>
+    <g transform="translate(248 66)">
+      <rect width="180" height="124" rx="18" fill="#FFFDF9" stroke="#141110" stroke-opacity="0.12"/>
+      <text x="20" y="34" class="k">02</text><text x="20" y="64" class="h">Brief</text>
+      <text x="20" y="88" class="d">Brand voice + goal</text><text x="20" y="106" class="d">+ KPI per piece</text></g>
+    <g transform="translate(456 66)">
+      <rect width="180" height="124" rx="18" fill="#141110"/>
+      <text x="20" y="34" class="k" style="fill:#FF7A3C">03 · AI</text><text x="20" y="64" class="h" style="fill:#FFFDF9">Generate</text>
+      <text x="20" y="88" class="d" style="fill:#FFFDF9;fill-opacity:.6">Hooks, scripts, copy</text><text x="20" y="106" class="d" style="fill:#FFFDF9;fill-opacity:.6">&amp; variants at scale</text></g>
+    <g transform="translate(664 66)">
+      <rect width="180" height="124" rx="18" fill="url(#g)"/>
+      <text x="20" y="34" class="k" style="fill:#FFFDF9">04 · HUMAN</text><text x="20" y="64" class="h" style="fill:#FFFDF9">Edit &amp; story</text>
+      <text x="20" y="88" class="d" style="fill:#FFFDF9;fill-opacity:.85">Taste, emotion,</text><text x="20" y="106" class="d" style="fill:#FFFDF9;fill-opacity:.85">brand judgement</text></g>
+    <g transform="translate(872 66)">
+      <rect width="180" height="124" rx="18" fill="#FFFDF9" stroke="#141110" stroke-opacity="0.12"/>
+      <text x="20" y="34" class="k">05</text><text x="20" y="64" class="h">Publish</text>
+      <text x="20" y="88" class="d">Organic + paid,</text><text x="20" y="106" class="d">A/B by design</text></g>
+    <g transform="translate(1080 66)">
+      <rect width="160" height="124" rx="18" fill="#FFFDF9" stroke="#141110" stroke-opacity="0.12"/>
+      <text x="20" y="34" class="k">06 · AI</text><text x="20" y="64" class="h">Measure</text>
+      <text x="20" y="88" class="d">KPIs → insights</text><text x="20" y="106" class="d">→ decisions</text></g>
+    <g fill="#E01474"><path d="M226 128l14 0" stroke="#E01474" stroke-width="2" marker-end="url(#a)"/><path d="M434 128l14 0" stroke="#E01474" stroke-width="2" marker-end="url(#a)"/><path d="M642 128l14 0" stroke="#E01474" stroke-width="2" marker-end="url(#a)"/><path d="M850 128l14 0" stroke="#E01474" stroke-width="2" marker-end="url(#a)"/><path d="M1058 128l14 0" stroke="#E01474" stroke-width="2" marker-end="url(#a)"/></g>
+  </g>
+</svg>
